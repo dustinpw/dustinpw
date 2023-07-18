@@ -5,7 +5,6 @@ My name is Dustin. I'm a procurement consultant with a passion for technology, p
 I have experience leading and managing the procurement functions of a broad range of projects as well as conducting data analyses that provide insights crucial for business decision-making.
 ## Current Project
 
-_This is what I am currently working on:_
 
 #### xxxx
 - **_Skills demonstrated:_** Data Cleaning
@@ -14,7 +13,6 @@ _This is what I am currently working on:_
 
 ## Past Projects
 
-_These are my most recent past projects demonstrating what I know:_
 
 - #### (https://github.com/dustinpw/Food_Sales_Prediction))
     - **_Skills demonstrated:_** Data Processing, Exploratory Data Analysis, Explanatory Data Analysis, Data Visualization, Supervised Machine Learning (Regression), Machine Learning Model Feature Analysis (feature importances, coefficients, SHAP values)
