@@ -14,11 +14,11 @@ I have experience leading and managing the procurement functions of a broad rang
 ## Past Projects
 
 
-- #### (https://github.com/dustinpw/Food_Sales_Prediction))
+- #### [**`/Food_Sales_Prediction`**](https://github.com/dustinpw/Food_Sales_Prediction)
     - **_Skills demonstrated:_** Data Processing, Exploratory Data Analysis, Explanatory Data Analysis, Data Visualization, Supervised Machine Learning (Regression), Machine Learning Model Feature Analysis (feature importances, coefficients, SHAP values)
     - **_Tools used:_** Pandas, Matplotlib, Scikit-learn, Seaborn, SHAP, Lime
 
-- #### (https://github.com/dustinpw/Heart_Disease_Prediction)
+- #### [**`/Heart_Disease_Prediction`**](https://github.com/dustinpw/Heart_Disease_Prediction)
     - **_Skills demonstrated:_** Data Processing, Exploratory Data Analysis, Explanatory Data Analysis, Data Visualization, Supervised Machine Learning (Classification), Principal Component Analysis
     - **_Tools used:_** Pandas, Matplotlib, Scikit-learn, XGBoost, LightGBM
 
