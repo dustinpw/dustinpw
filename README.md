@@ -30,5 +30,8 @@ I have experience leading and managing the procurement functions of a broad rang
     - **_Skills demonstrated:_** Data Processing, Exploratory Data Analysis, Explanatory Data Analysis, Data Visualization, Time Series Analysis, Tableau Dashboard Design & Creation
     - **_Tools used:_** Pandas, Matplotlib, Tableau
 
+### Stats
+
+[![Dustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dustinpw)](https://github.com/dustinpw/github-readme-stats)
 
 <!-- 18-July-2023 -->
