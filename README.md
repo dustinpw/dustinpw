@@ -6,11 +6,6 @@ I have experience leading and managing the procurement functions of a broad rang
 ## Current Project
 
 
-#### xxxx
-- **Skills demonstrated:** Data Cleaning
-- **Tools used:** Pandas, Matplotlib
-- **_Learning Goals:_** Strategic Missing Value Handling, CRISP-DM Workflow
-
 ## Past Projects
 
 
